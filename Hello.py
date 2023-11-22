@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# 환영합니다! 👋")
+    st.write("# 숩숩의 페이지에 오신 것을 환영합니다! 👋")
 
     st.sidebar.success("Select a demo above.")
 
